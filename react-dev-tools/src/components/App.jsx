@@ -8,7 +8,8 @@ function App() {
     <div>
       <h1 className="heading">My Contacts</h1>
       <Avtar 
-        img = ""
+               img = "https://scontent.fcok10-1.fna.fbcdn.net/v/t39.30808-6/281241556_1651990491841120_7356322978545002311_n.jpg?stp=dst-jpg_p526x296&_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=IFikB-JbsrsAX8uDHIS&_nc_ht=scontent.fcok10-1.fna&oh=00_AfAsNniqizU0H0rixzOLNJg1AO2WoMPq_mZFfW4RMXztyA&oe=63FA1E76"
+
       />
 
       <Card
